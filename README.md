@@ -21,7 +21,7 @@ This is a project that combs the Google Books API and allows users to search for
 ![Image of Home page](./client/public/book_search_app.png)
 
 ## Deployed App
-Click Here: https://dashboard.heroku.com/apps/protected-crag-88725/deploy/github
+Click Here: https://protected-crag-88725.herokuapp.com/
 
 ## Installation
 
